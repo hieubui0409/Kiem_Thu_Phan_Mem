@@ -2,7 +2,7 @@
 
 ### 1. Thông tin sinh viên
 - **Họ và tên:** Bùi Quang Hiếu
-- **MSSV:** BIT230384
+- **MSSV:** BIT230157
 - **Email:** hieub4680@gmail.com
 - **Môn học:** Kiểm thử phần mềm
 - **Giảng viên:** Trương Anh Hoàng
