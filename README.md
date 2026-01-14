@@ -31,6 +31,7 @@
 📌 **Hình ảnh minh chứng:**
 https://github.com/hieubui0409/Kiem_Thu_Phan_Mem/blob/main/z7399817825266_e5aa23b9ef114294ac2e33e256ca0d5a.jpg
 ![Kết quả kiểm tra UI trên cantunsee.space](Báo%20cáo%20cantunsee.jpg)
+![z7399817825266_e5aa23b9ef114294ac2e33e256ca0d5a](https://github.com/user-attachments/assets/059ae23d-41f5-4786-9334-e24d8f5fd1ef)
 
 ### 5. Nhận xét và đánh giá cá nhân
 - Website CantUnsee giúp kiểm tra khả năng nhận diện màu sắc và chi tiết giao diện
