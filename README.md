@@ -44,3 +44,33 @@ Thông qua bài thực hành này, sinh viên:
 - Biết cách tổ chức và nộp bài bằng GitHub
 - Hiểu thêm về kiểm thử giao diện và trải nghiệm người dùng
 - Có nền tảng để tiếp cận các công cụ kiểm thử chuyên sâu hơn trong các tuần tiếp theo
+
+ Bài tập thực hành tuần 2 kiểm thử với JUnit – Phân tích dữ liệu điểm số học sinh
+1. Giới thiệu
+Dự án này xây dựng một chương trình Java đơn giản để phân tích điểm số học sinh và viết kiểm thử đơn vị bằng JUnit 5.
+Mục tiêu học tập
+Biết cách viết Unit Test với JUnit.
+Áp dụng kiểm thử cho các trường hợp:
+Bình thường
+Biên
+Dữ liệu không hợp lệ
+Biết cách tổ chức source code và test code trong repository.
+Thực hành quản lý công việc bằng GitHub Issues và Commit message.
+2. Mô tả bài toán
+Chương trình có lớp StudentAnalyzer với 2 phương thức:
+
+2.1 countExcellentStudents(List scores)
+Đếm số học sinh có điểm >= 8.0
+Chỉ tính các điểm hợp lệ trong khoảng 0 – 10
+Bỏ qua:
+Điểm < 0
+Điểm > 10
+Nếu danh sách rỗng → trả về 0
+2.2 calculateValidAverage(List scores)
+Tính điểm trung bình các điểm hợp lệ (0 – 10)
+Bỏ qua điểm không hợp lệ
+Nếu không có điểm hợp lệ → trả về 0
+3. Cấu trúc thư mục
+unit-test/ │ ├── src/ │ └── StudentAna     
+lyzer.java │ ├── test/ │ └── StudentAnalyzerTest.java │ └── README.md
+  <img width="1493" height="945" alt="Ảnh chụp màn hình 2026-01-14 145358" src="https://github.com/user-attachments/assets/04092bdc-c183-4d47-9bdf-36aab40bdb3f" />
